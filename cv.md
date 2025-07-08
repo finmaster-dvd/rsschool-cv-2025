@@ -1,4 +1,4 @@
-## _rsschool-cv_
+# [_rsschool-cv_](https://finmaster-dvd.github.io/rsschool-cv/cv)
 
 ---------------
 
@@ -39,6 +39,8 @@
 ---------------
 
 ### Code example
+
+```
 do {
    i += 1;
    console.log(i);
