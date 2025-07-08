@@ -21,12 +21,10 @@
 * Graphics: PS, Figma
 * Frameworks: React
 * IDE: VS Code, Sublime text
-
 ---------------
 ### Projects
 * Rolling Scopes School [CV#1. Markdown & Git](https://finmaster-dvd.github.io/rsschool-cv/cv "Markdown_Git")
 * Cars renting: [Cars](https://finmaster-dvd.github.io/cars/  "Cars") 
-
 ---------------
 ### Code example
 ```
